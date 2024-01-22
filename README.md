@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-# 💫 About Me:
-Bienvenido a mi rincón en GitHub, donde convergen líneas de código y proyectos que reflejan mi pasión por la programación y la creatividad. Soy [Tu Nombre], un apasionado desarrollador y creador que encuentra inspiración en la posibilidad de dar vida a ideas a través del código.<br><br>
 
+Welcome to my corner on GitHub, where lines of code and projects converge to reflect my passion for programming and creativity. I'm Enric Broto, a passionate developer and creator who finds inspiration in bringing ideas to life through code.
+<br><br>
+
+# 💫 About Me:
+Since discovering the magic of programming, I've been immersed in the digital world, exploring various technologies and frameworks to expand my skills. My focus is on creating elegant and efficient solutions to real-world problems.
+<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ebroto7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ebroto) 
