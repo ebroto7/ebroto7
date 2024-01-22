@@ -1,6 +1,6 @@
 ### Hi there 👋
+<img width="874" alt="Captura de pantalla 2024-01-22 a les 19 10 35" src="https://github.com/ebroto7/ebroto7/assets/79308110/24f45b7b-bb86-4b0e-8aa1-8763e076e6b1">
 
-![Captura de pantalla 2022-09-28 a les 18 17 57 (còpia)](https://github.com/ebroto7/ebroto7/assets/79308110/aa955f9d-73da-4513-a437-dbed065cd65d)
 
 Welcome to my corner on GitHub, where lines of code and projects converge to reflect my passion for programming and creativity. I'm Enric Broto, a passionate developer and creator who finds inspiration in bringing ideas to life through code.
 <br><br>
