@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 Welcome to my corner on GitHub, where lines of code and projects converge to reflect my passion for programming and creativity. I'm Enric Broto, a passionate developer and creator who finds inspiration in bringing ideas to life through code.
